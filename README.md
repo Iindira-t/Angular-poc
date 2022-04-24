@@ -1,2 +1,2 @@
 # Angular-poc
-Angular POC
+Learning Angular with patterns
